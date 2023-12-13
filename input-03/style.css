@@ -1,5 +1,4 @@
 
-
 :root {
   --background: #1F2336;
   --box-background: #313852;
@@ -23,8 +22,7 @@ body {
 }
 
 .box {
-  background-color: var(
-    --box-background);
+  background-color: var(--box-background);
   padding: 24px;
   max-width: fit-content;
   width: 100%;
